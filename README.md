@@ -242,11 +242,13 @@ To regenerate everything from scratch, run the notebooks in order:
 
 ## 👩‍💻 Author
 
-**Khushi R**
+**Muthukumar G**
 
 AI & Data Science Graduate
-- GitHub: [Khushi-datascientist](https://github.com/Khushi-datascientist)
-- LinkedIn: [itz-khushi](https://www.linkedin.com/in/itz-khushi)
+
+- GitHub: [code-with-muthu](https://github.com/code-with-muthu)
+- LinkedIn: [heymuthu](https://linkedin.com/in/heymuthu/)
+- Email: 1719muthukumar@gmail.com
 
 ## 📄 License
 
